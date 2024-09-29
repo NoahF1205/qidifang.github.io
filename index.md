@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently pursuing a Master of Science in Computer Engineering (MSCE) at Tufts University, with an expected graduation date of May 2025. I completed my undergraduate studies in Computer Science at Hangzhou Dianzi University. I am actively seeking a PhD position to further my academic and research pursuits.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Human-Robot Interaction (HRI):** Focusing on human-centered HRI in assistive technologies and industrial robotics.
+- **Reinforcement Learning from Human Feedback (RLHF):** Investigating learning mechanisms from critiques, preferences, suggestions, demonstrations, and other forms of human feedback.
+- **Robot Learning:** Exploring robotic manipulation, decision-making in dynamic environments.
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2024]** Our two papers on HRI and RLHF have been submitted to ICRA 2025.
+- **[May 2024]** Our paper on RLHF has been accepted to the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2024.
 
 {% include_relative _includes/publications.md %}
 
