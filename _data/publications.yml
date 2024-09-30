@@ -23,7 +23,7 @@ main:
   - title: "How Much Progress Did I Make? An Unexplored Human Feedback Signal for Teaching Robots."
     authors: Yu, H., <strong>Fang, Q.</strong>, Fang, S., Aronson, R. M., & Short, E. S.
     conference_short: RO-MAN
-    conference: IEEE International Conference on Robot and Human Interactive Communication, <strong>(RO-MAN)</strong>, 2025.
+    conference: IEEE International Conference on Robot and Human Interactive Communication, <strong>(RO-MAN)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.06459
     code: https://github.com/TeachingwithProgress/Non-Expert_Demonstrations
     bibtex: 
