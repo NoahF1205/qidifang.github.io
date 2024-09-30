@@ -11,7 +11,7 @@ main:
     notes: under review
 
   - title: "Demonstration Sidetracks: Categorizing Systematic Non-Optimality in Human Demonstrations."
-    authors: Fang, S., Yu, H., </strong>Fang, Q.</strong>, Aronson, R. M., & Short, E. S.
+    authors: Fang, S., Yu, H., <strong>Fang, Q.</strong>, Aronson, R. M., & Short, E. S.
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.
     pdf: 
@@ -21,7 +21,7 @@ main:
     notes: under review
     
   - title: "How Much Progress Did I Make? An Unexplored Human Feedback Signal for Teaching Robots."
-    authors: Yu, H., </strong>Fang, Q.</strong>, Fang, S., Aronson, R. M., & Short, E. S.
+    authors: Yu, H., <strong>Fang, Q.</strong>, Fang, S., Aronson, R. M., & Short, E. S.
     conference_short: RO-MAN
     conference: IEEE International Conference on Robot and Human Interactive Communication, <strong>(RO-MAN)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2407.06459
