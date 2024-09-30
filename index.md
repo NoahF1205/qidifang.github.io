@@ -13,8 +13,8 @@ I am currently pursuing a Master of Science in Computer Engineering (MSCE) at Tu
 - **Robot Learning:** Exploring robotic manipulation, decision-making in dynamic environments.
 ## News
 
-- **[Sept. 2024]** Our two papers on HRI and RLHF have been submitted to IEEE International Conference on Robotics and Automation (ICRA) 2025.
-- **[May 2024]** Our paper on RLHF has been accepted to the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2024.
+- **[Sept. 2024]** Our two papers about HRI and RLHF have been submitted to IEEE International Conference on Robotics and Automation (ICRA) 2025.
+- **[May 2024]** Our paper about RLHF has been accepted to the IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2024.
 
 {% include_relative _includes/publications.md %}
 
