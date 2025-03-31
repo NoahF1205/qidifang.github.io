@@ -2,8 +2,8 @@ main:
 
   - title: "CHARM: Considering Human Attributes for Reinforcement Modeling."
     authors: <strong>Fang, Q.</strong>, Yu, H., Fang, S., Huang, J., Chen, Q., Aronson, R. M., & Short, E. S. 
-    conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.
+    conference_short: RO-MAN
+    conference: International Conference on Robot and Human Interactive Communication <strong>(RO-MAN)</strong>, 2025.
     pdf: 
     code: 
     bibtex:
@@ -12,8 +12,8 @@ main:
 
   - title: "Demonstration Sidetracks: Categorizing Systematic Non-Optimality in Human Demonstrations."
     authors: Fang, S., Yu, H., <strong>Fang, Q.</strong>, Aronson, R. M., & Short, E. S.
-    conference_short: ICRA
-    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2025.
+    conference_short: RO-MAN
+    conference: International Conference on Robot and Human Interactive Communication <strong>(RO-MAN)</strong>, 2025.
     pdf: 
     code: 
     bibtex:
